@@ -1,0 +1,38 @@
+# BEGIN ACE
+colors:
+  primary:
+    background: '#09080f'
+    foreground: '#a2d0e3'
+  cursor:
+    text:       '#09080f'
+    cursor:     '#a2d0e3'
+  normal:
+    black:      '#09080f'
+    red:        '#2D486F'
+    green:      '#4F5272'
+    yellow:     '#2A6196'
+    blue:       '#4F6493'
+    magenta:    '#907594'
+    cyan:       '#52A8D7'
+    white:      '#a2d0e3'
+  bright:
+    black:      '#71919e'
+    red:        '#2D486F'
+    green:      '#4F5272'
+    yellow:     '#2A6196'
+    blue:       '#4F6493'
+    magenta:    '#907594'
+    cyan:       '#52A8D7'
+    white:      '#a2d0e3'
+# END ACE
+
+
+font:
+  normal:
+    family: JetBrains Mono
+    style: Regular
+
+window:
+  padding:
+   x: 10
+   y: 10
