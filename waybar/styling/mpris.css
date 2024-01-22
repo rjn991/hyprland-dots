@@ -1,0 +1,9 @@
+@import "colors-waybar.css";
+#mpris {
+  margin-top: 7px;
+  margin-bottom: 7px;
+  border-radius: 10px;
+  background-color:  alpha(@secondary-container,0.75);
+  padding:0px 10px 0px 10px;
+  color: @on-secondary-container;
+}
