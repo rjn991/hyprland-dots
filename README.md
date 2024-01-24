@@ -1,13 +1,13 @@
 # My Hyprland dots
 This repo contains config files of my Hyprland setup. This includes waybar and rofi that changes color automatically based on wallpaper, achieved by using pywal.
-
-#### Major Dependencies
+Took inspiration from [u/SarathExp](https://www.reddit.com/r/unixporn/comments/10fre7y/waybar_love_the_icons/) and [u/niksingh710](https://www.reddit.com/r/unixporn/comments/166bgkv/hyprland_with_waybar_and_rofi/)
+### Major Dependencies
  -  [Hyprland](https://hyprland.org/) (obviously...)
  -  [Waybar](https://github.com/Alexays/Waybar) - Status bar
  -  [rofi](https://github.com/lbonn/rofi) - App Launcher
  -  [pywal](https://github.com/dylanaraps/pywal) - To extract colors from wallpaper 
 
-#### Other things that I use
+### Other things that I use
  - [kitty](https://sw.kovidgoyal.net/kitty/) - Terminal emulator
  - [hyprpicker](https://github.com/hyprwm/hyprpicker) - Wayland color picker that does not suck
  - [swww](https://github.com/LGFae/swww) - Wallpaper changer
