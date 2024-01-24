@@ -42,7 +42,7 @@ label#network {
 }
 
 #network.disconnected {
-  color: @secondary;
+  color: @on-secondary-container;
 }
 
 /* If workspaces is the leftmost module, omit left margin */
