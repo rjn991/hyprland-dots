@@ -1,0 +1,7 @@
+#!/bin/zsh
+
+img_file=$1
+killall waybar
+wal -i $img_file
+waybar -c ~/.config/waybar/configs/config -s ~/.config/waybar/styling/style.css &
+swww img $img_file
