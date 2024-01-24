@@ -12,3 +12,8 @@ This repo contains config files of my Hyprland setup. This includes waybar and r
  - [hyprpicker](https://github.com/hyprwm/hyprpicker) - Wayland color picker that does not suck
  - [swww](https://github.com/LGFae/swww) - Wallpaper changer
 
+#### Screenshots
+![s1](https://raw.githubusercontent.com/rjn991/hyprland-dots/main/screenshots/s1.png)
+![s3](https://raw.githubusercontent.com/rjn991/hyprland-dots/main/screenshots/s3.png)
+![s4](https://raw.githubusercontent.com/rjn991/hyprland-dots/main/screenshots/s4.png)
+![s2](https://raw.githubusercontent.com/rjn991/hyprland-dots/main/screenshots/s2.png)
