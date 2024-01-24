@@ -16,7 +16,7 @@
 @define-color on-error #690005;
 @define-color on-error-container #ffdad6;
 @define-color outline #948f99;
-@define-color background #172520;
+@define-color background #{color0.strip};
 @define-color on-background #e6e1e6;
 @define-color surface #1d1b1e;
 @define-color on-surface #e6e1e6;
